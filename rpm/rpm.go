@@ -13,8 +13,8 @@ import (
 	"github.com/google/rpmpack"
 	"github.com/pkg/errors"
 
-	"github.com/goreleaser/nfpm"
-	"github.com/goreleaser/nfpm/glob"
+	"github.com/djthorpe/nfpm"
+	"github.com/djthorpe/nfpm/glob"
 )
 
 // nolint: gochecknoinits

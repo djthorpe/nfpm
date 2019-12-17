@@ -9,9 +9,9 @@ import (
 
 	"github.com/alecthomas/kingpin"
 
-	"github.com/goreleaser/nfpm"
-	_ "github.com/goreleaser/nfpm/deb"
-	_ "github.com/goreleaser/nfpm/rpm"
+	"github.com/djthorpe/nfpm"
+	_ "github.com/djthorpe/nfpm/deb"
+	_ "github.com/djthorpe/nfpm/rpm"
 )
 
 // nolint: gochecknoglobals

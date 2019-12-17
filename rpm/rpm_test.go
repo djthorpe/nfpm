@@ -9,7 +9,7 @@ import (
 	"github.com/sassoftware/go-rpmutils"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/goreleaser/nfpm"
+	"github.com/djthorpe/nfpm"
 )
 
 const (

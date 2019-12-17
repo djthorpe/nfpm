@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/goreleaser/nfpm"
+	"github.com/djthorpe/nfpm"
 )
 
 // nolint: gochecknoglobals
