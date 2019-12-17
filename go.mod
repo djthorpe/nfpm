@@ -1,4 +1,4 @@
-module github.com/goreleaser/nfpm
+module github.com/djthorpe/nfpm
 
 go 1.13
 
